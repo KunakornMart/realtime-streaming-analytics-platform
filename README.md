@@ -1,12 +1,9 @@
 # Real-Time Data Streaming & Analytics Platform
 
-<p align="center">
+<p>
   <b>Apache Kafka</b> · <b>ksqlDB</b> · <b>Apache Pinot</b> · <b>Streamlit</b> · <b>Python</b>
 </p>
 
-<p align="center">
-  <i>DADS6005, NIDA · Aug – Oct 2024</i>
-</p>
 
 ---
 
